@@ -1,13 +1,2 @@
 # BSK-2023/5/17
-
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
-```
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-```
+https://docs.google.com/spreadsheets/d/1BrSCEzvWnhrq1lqoeEOKO7Nz9SswuyU5xukXE9C9frk/edit?usp=sharing
